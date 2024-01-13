@@ -1,7 +1,7 @@
-document.getElementById("button1").onclick = function () {
-    location.href="file1.html";
+document.getElementById("continue-campaign-button").onclick = function () {
+    location.href="current-campaign.html";
 };
 
-document.getElementById("button2").onclick = function () {
-    location.href = "file2.html";
+document.getElementById("start-a-new-character-button").onclick = function () {
+    location.href = "character-creation.html";
 };
