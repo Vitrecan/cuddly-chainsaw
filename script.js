@@ -3,5 +3,5 @@ document.getElementById("continue-campaign-button").onclick = function () {
 };
 
 document.getElementById("start-a-new-character-button").onclick = function () {
-    location.href = "character-creation.html";
+    location.href = "race-selection.html";
 };
