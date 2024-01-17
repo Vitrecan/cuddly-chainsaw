@@ -15,5 +15,5 @@
 // };
 
 document.getElementById("human-button").onclick = function () {
-    location.href = "class-selection.html";
+    location.href = "class.html";
 };
